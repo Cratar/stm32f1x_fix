@@ -1,0 +1,1 @@
+C:\Users\User\AppData\Local\VisualGDB\EmbeddedDebugPackages\com.sysprogs.arm.openocd\share\openocd\scripts\target
